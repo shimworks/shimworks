@@ -36,4 +36,6 @@ Here are some ideas to get you started:
  
   ![Snake animation](https://github.com/shimworks/shimworks/blob/output/github-contribution-grid-snake.svg)
  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shimworks&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 </div>
