@@ -1,14 +1,16 @@
 ### Hi there 👋 
 Welcome to my profile
 
+- 🌱 I’m currently learning Amazon Web Services
+- 📫 How to reach me: https://br.linkedin.com/in/shimworks or shimworks.tk@gmail.com
 <!--
 **shimworks/shimworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Docker
+
 - 💬 Ask me about Anything
-- 📫 How to reach me: https://br.linkedin.com/in/shimworks or shimworks.tk@gmail.com
+
 - ⚡ Fun fact: Every dad joke made, creates more dad jokes Fans!
 -->
 
