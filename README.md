@@ -1,7 +1,7 @@
 ### Hi there 👋 
 Welcome to my profile
 
-- 🌱 I’m currently learning Amazon Web Services
+- 🌱 I’m currently learning Azure DevOps
 - 📫 How to reach me: https://br.linkedin.com/in/shimworks or shimworks.tk@gmail.com
 <!--
 **shimworks/shimworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
