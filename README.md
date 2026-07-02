@@ -8,7 +8,7 @@ At this moment I'm building my first SaaS, for that I learned microservices arch
 
 My Main Stack is C# .NET, React, Azure, SQL Server.
 
-Checkout my SaaS(InDevelopment) https://github.com/shimworks/Construcheck
-  
-- 📫 How to reach me: https://br.linkedin.com/in/shimworks or shimworks.tk@gmail.com
+[Checkout my SaaS(InDevelopment)](https://github.com/shimworks/Construcheck)
+
+📫 How to reach me: LinkedIn(https://br.linkedin.com/in/shimworks) or shimworks.tk@gmail.com
 
