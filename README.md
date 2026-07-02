@@ -12,5 +12,5 @@ My Main Stack is C# .NET, React, Azure, SQL Server.
 
 [SaaS Online](construcheck-api.reddune-cfde5384.brazilsouth.azurecontainerapps.io)
 
-📫 How to reach me: LinkedIn(https://br.linkedin.com/in/shimworks) or shimworks.tk@gmail.com
+📫 How to reach me: [LinkedIn](https://br.linkedin.com/in/shimworks) or shimworks.tk@gmail.com
 
